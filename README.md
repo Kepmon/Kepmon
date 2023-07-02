@@ -8,7 +8,7 @@
 
 ## 🎓 Currently learning
 ✓ Practicing **Vue.js** by making [this app](https://github.com/Kepmon/task-manager).  
-✓ Intending to learn **Nuxt 3** as soon as I finish writing the abovementioned app. Planning to do so just by writing another next app (learning by doing) since I already watched a crash course on the topic and I believe I'll be able to manage writing an app just with the docs.
+✓ Intending to learn **Nuxt 3** as soon as I finish writing the abovementioned app. Planning to do so just by writing another app (learning by doing) since I already watched a crash course on the topic and I believe I'll be able to manage writing an app just with the docs.
 
 ## 💻 Tech Stack
 **1. Languages**  
@@ -70,8 +70,8 @@
   _In progress_
 
   #### Description  
-The website/app is a [Frontendmentor Challenge](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB) and currently it is still being created. The main purpose of writing this app is practicing Vue and TypeScript. Usually, I prefer to create my own projects, instead of using the Frontendmentor challenges, however, I decided to take this one for several reasons:
-* When I discovered Trello, I thought I'd like to write a similar app. But I don't feel that I have a good eye for design and didn't want to spend much time on designing the app anyway. Therefore, when I accidentally found this challenge on Frontendmentor I thought this would be a perfect solution for me.
+The website/app is a [Frontendmentor Challenge](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB) and currently it is still being created. The main purpose of writing this app is practicing Vue and TypeScript. Usually, I prefer to create my own projects, instead of making use of the Frontendmentor challenges, however, I decided to take this one for several reasons:
+* When I discovered Trello, I thought I'd like to write a similar app. But I don't feel that I have a good eye for design and I didn't want to spend much time on designing the app anyway. Therefore, when I accidentally found this challenge on Frontendmentor I thought this would be a perfect solution for me.
 * I felt like I actually should practice working with design files, since it is my understanding that it is what I would be doing in an actual job.
 * I believe this app would be an interesting base for converting to a desktop app, using Electron, which I intend to learn in the future.
 
@@ -131,7 +131,7 @@ Since the website was written over half a year ago, it requires a major refactor
   #### Description  
 The main purpose of creating this website was to practice working with the REST API, during my learning process. The website serves for finding recipes based on criteria provided by a user.  
 
-This website also needs a major improvements, with a particular emphasis on its design. As for the code, part of it was reviewed by an experienced developer (outside Github, so there are no pull requests), however, there is probably much room for improvement in it as well. Intended to be done in the future, using TypeScript, ESLint, and – possibly – Astro and Tailwind CSS.
+This website also needs major improvements, with a particular emphasis on its design. As for the code, part of it was reviewed by an experienced developer (outside Github, so there are no pull requests), however, there is probably much room for improvement in it as well. Intended to be done in the future, using TypeScript, ESLint, and – possibly – Astro and Tailwind CSS.
 </details>
 
 
