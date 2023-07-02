@@ -1,14 +1,14 @@
 ## 🙋️ About me
 * I'm a highly motivated and passionate front-end programmer with a strong desire to kick-start my professional career. 
 * My primary focus is to write clean, readable and maintainable code, and to assure the best possible performance of websites. I am well-equipped to do so, due to the following:
-    * I have first-hand experience participating in code reviews and refactoring my own code based on those (see the pull requests [here](https://github.com/Kepmon/Website_ZChA/pulls) or [here](https://github.com/Kepmon/task-manager/pulls), if interested), so I know what is it like going back to your code and wondering what's going on there
+    * I have first-hand experience participating in code reviews and refactoring my own code based on those (see the pull requests [here](https://github.com/Kepmon/Website_ZChA/pulls) or [here](https://github.com/Kepmon/task-manager/pulls), if interested), so I know what it is like going back to your code and wondering what's going on there
     * I also happen to be a perfectionist, therefore, I intend to make a complete code refactoring for all my existing projects - I already managed to do this with one of them and - due to the lack of time - the rest are waiting for their turn
-* Making websites accessible for everyone is also one of my top priorities. Therefore, when writing my personal projects, I implement solutions that allow both keyboard-navigating users, as well as the screen-reader users, to easily navigate through the website/app. Currently, I use the [Silktide website accessibility simulator](https://chrome.google.com/webstore/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf) as well as the [NVDA screen reader](https://www.nvaccess.org/download/) to be able to perceive the web the way that people with disabilities do. However, I'm open to any tool recommendations that would allow me to enhance my accessibility skills.
+* Making websites accessible for everyone is also one of my top priorities. Therefore, when writing my personal projects, I implement solutions that allow both keyboard-navigating users, as well as screen-reader users, to easily navigate through the website/app. Currently, I use the [Silktide website accessibility simulator](https://chrome.google.com/webstore/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf) as well as the [NVDA screen reader](https://www.nvaccess.org/download/) to be able to perceive the web the way that people with disabilities do. However, I'm open to any tool recommendations that would allow me to enhance my accessibility skills.
 * Although at the moment I'm focused on developing my front-end skills, I do intend to learn some back-end technologies (e.g. Node.js/Express.js) as well, since I strongly believe that the broader your knowledge is, the better developer you make.
 
 ## 🎓 Currently learning
 ✓ Practicing **Vue.js** by making [this app](https://github.com/Kepmon/task-manager).  
-✓ Intending to learn **Nuxt 3** as soon as I finish writing the abovementioned app. Planning to do so just by writing some next app (learning by doing) since I already watched some crash course on the topic and I think I'll be fine just with docs.
+✓ Intending to learn **Nuxt 3** as soon as I finish writing the abovementioned app. Planning to do so just by writing another next app (learning by doing) since I already watched a crash course on the topic and I believe I'll be able to manage writing an app just with the docs.
 
 ## 💻 Tech Stack
 **1. Languages**  
@@ -71,11 +71,11 @@
 
   #### Description  
 The website/app is a [Frontendmentor Challenge](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB) and currently it is still being created. The main purpose of writing this app is practicing Vue and TypeScript. Usually, I prefer to create my own projects, instead of using the Frontendmentor challenges, however, I decided to take this one for several reasons:
-* When I discovered Trello, I thought I'd like to write a similar app. But I don't feel like having a good eye for design and didn't want to spend much time on designing the app anyway, therefore, when I accidentally found this challenge on Frontendmentor I thought this would be a perfect solution for me.
-* I felt like I actually should practice working with the design files, since it was my understanding that's what I would be doing in an actual job.
-* I believe this app would be an interesting base for converting to the desktop app, using Electron, which I intend to learn in the future.
+* When I discovered Trello, I thought I'd like to write a similar app. But I don't feel that I have a good eye for design and didn't want to spend much time on designing the app anyway. Therefore, when I accidentally found this challenge on Frontendmentor I thought this would be a perfect solution for me.
+* I felt like I actually should practice working with design files, since it is my understanding that it is what I would be doing in an actual job.
+* I believe this app would be an interesting base for converting to a desktop app, using Electron, which I intend to learn in the future.
 
-Nevertheless, I decided to enhance the functionality proposed by the Frontendmentor creators by connecting it to Firebase, so a user is able to create an account and store all data. 
+Apart from the functionality proposed by the Frontendmentor creators, I decided to enhance it by connecting the project to Firebase, so users are able to create an account and store their data. 
 </details>
 
 <details>
@@ -85,10 +85,8 @@ Nevertheless, I decided to enhance the functionality proposed by the Frontendmen
   _Needing minor refactoring_
 
   #### Description  
-The website was created with the intent of practicing Vue. Initially
-written with Options API and JavaScript but rewritten later on to Composition
-API and Typescript. The website allows to create workout routines and was
-connected to Supabase, so the user can create and store their workouts.
+The website was created with the intent of practicing Vue. Initially written with Options API and JavaScript but rewritten later on to Composition API and Typescript. The website allows to create workout routines and was connected to Supabase, so the user can create and store their workouts.
+
 Still needing an improvement of some UX and accessibility aspects, which is intended to be done in the future.
 </details>
 
