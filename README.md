@@ -67,10 +67,21 @@
   <summary>1. Task Manager</summary>
   
   #### Status
-  _In progress_
+  _Needing some refactoring_
 
   #### Description  
-The website/app is a [Frontendmentor Challenge](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB) and currently it is still being created. The main purpose of writing this app is to practice Vue and TypeScript. Usually I prefer to create my own projects instead of making use of the Frontendmentor challenges, however, I decided to take this one for several reasons:
+**Update**  
+Currently, the whole functionality of the app is working, however, the app still requires many improvements that are meant to be made in the upcoming days.
+
+Nevertheless, at present, this is my most advanced app that pictures my currrent best. I highly encourage you to read [the project's description](https://github.com/Kepmon/task-manager) to find out about:
+* the details on the app's functionality,
+* the accessiiblity concerns,
+* the UX aspects that I took care of
+* what did I learn out of it
+* what is still to be improved
+
+## 
+The website/app is a [Frontendmentor Challenge](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). The main purpose of writing this app is to practice Vue and TypeScript. Usually I prefer to create my own projects instead of making use of the Frontendmentor challenges, however, I decided to take this one for several reasons:
 * When I discovered Trello, I thought I'd like to write a similar app. But I don't feel that I have a good eye for design and I didn't want to spend much time on designing the app, anyway. Therefore, when I accidentally found this challenge on Frontendmentor, I thought this would be a perfect solution for me.
 * I felt like I should actually practice working with design files, since it is my understanding that's what I would be doing in an actual job.
 * I believe that this app would be an interesting base for converting to a desktop app using Electron, which I intend to learn in the future.
