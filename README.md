@@ -7,7 +7,7 @@
 * Although at the moment I'm focused on developing my front-end skills, I do intend to learn some back-end technologies (e.g. Node.js/Express.js, Bun, C#), as well since I strongly believe that the broader your knowledge is, the better the developer that you make.
 
 ## 🎓 Currently learning
-✓ Practicing **Vue.js** by polishing [this app](https://github.com/Kepmon/task-manager).
+✓ Practicing **Vue.js** by polishing [this app](https://github.com/Kepmon/task-manager).  
 ✓ Practicing **Astro** (particularly, the SSG and SSR rendering modes) by making [this website]((https://github.com/Kepmon/devjobs)).  
 
 ## 💻 Tech Stack
@@ -57,7 +57,7 @@
 | Technologies | Project |
 | ------------- |:----------------:|
 | Vue.js, Tailwind CSS, Typescript, ESlint, Prettier, Firebase |[Task Manager](https://github.com/Kepmon/task-manager)|
-| Astro, Tailwind CSS, Typescript, ESlint, Prettier, Xata |[Devjobs]((https://github.com/Kepmon/devjobs))|
+| Astro, Tailwind CSS, Typescript, ESlint, Prettier, Xata |[Devjobs](https://github.com/Kepmon/devjobs)|
 | Vue.js, Tailwind CSS, Typescript, ESlint, Supabase |[Workout Planner](https://github.com/Kepmon/Workout-planner)|
 | Astro, SCSS, TypeScript, ESLint | [ZChA Website](https://github.com/Kepmon/Website_ZChA) |
 | HTML, SCSS, JavaScript |[Calorie Calculator](https://github.com/Kepmon/Caloric_calculator)|
