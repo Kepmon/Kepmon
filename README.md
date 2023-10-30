@@ -8,7 +8,7 @@
 
 ## 🎓 Currently learning
 ✓ Practicing **Vue.js** by polishing [this app](https://github.com/Kepmon/task-manager).  
-✓ Practicing **Astro** (particularly, the SSG and SSR rendering modes) by making [this website]((https://github.com/Kepmon/devjobs)).  
+✓ Practicing **Astro** (particularly, the SSG and SSR rendering modes) by making [this website](https://github.com/Kepmon/devjobs).  
 
 ## 💻 Tech Stack
 **1. Languages and Frameworks**  
