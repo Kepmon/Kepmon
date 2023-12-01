@@ -9,6 +9,7 @@
 ## 🎓 Currently learning
 ✓ Practicing **Vue.js** by polishing [this app](https://github.com/Kepmon/task-manager).  
 ✓ Practicing **Astro** (particularly, the SSG and SSR rendering modes) by making [this website](https://github.com/Kepmon/devjobs).  
+✓ Practicing **Astro** (SSR rendering mode) and **Svelte** by refactoring/writing from scratch [this website](https://github.com/Kepmon/Recipe_finder).  
 
 ## 💻 Tech Stack
 **1. Languages and Frameworks**  
@@ -20,6 +21,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 
 **2. Others**  
@@ -42,7 +44,8 @@
 | Nuxt 3 | In the near future |
 | Vitest | In the near future |
 | Cypress | In a more distant future |
-| Svelte / SvelteKit| In the near future |
+| Svelte| Occurring now |
+| SvelteKit| In the near future |
 | Node.js / Express.js / and/or Bun | In a more distant future |
 | GraphQL | In a more distant future |
 | Docker | In a more distant future |
@@ -58,10 +61,10 @@
 | ------------- |:----------------:|
 | Vue.js, Tailwind CSS, Typescript, ESlint, Prettier, Firebase |[Task Manager](https://github.com/Kepmon/task-manager)|
 | Astro, Tailwind CSS, Typescript, ESlint, Prettier, Xata |[Devjobs](https://github.com/Kepmon/devjobs)|
+| Astro, Svelte, SCSS, Typescript, Eslint, Prettier |[Recipe Finder](https://github.com/Kepmon/Recipe_finder)|
 | Vue.js, Tailwind CSS, Typescript, ESlint, Supabase |[Workout Planner](https://github.com/Kepmon/Workout-planner)|
 | Astro, SCSS, TypeScript, ESLint | [ZChA Website](https://github.com/Kepmon/Website_ZChA) |
 | HTML, SCSS, JavaScript |[Calorie Calculator](https://github.com/Kepmon/Caloric_calculator)|
-| HTML, SCSS, JavaScript, REST API |[Recipe Finder](https://github.com/Kepmon/Recipe_finder)|
 
 ### Projects' description:
 <details>
@@ -108,7 +111,21 @@ On top of that, apart from the functionality proposed by the Frontend Mentor cre
 </details>
 
 <details>
-  <summary>3. Workout Planner</summary>
+  <summary>3. Recipe Finder</summary>
+
+  #### Status
+  _Currently being refactoring_
+
+  #### Description  
+The website serves for finding recipes based on criteria provided by a user. It allows for a user to provide different criteria regarding the desired recipes, e.g. the meal name, calories per serving, diet/dish/cuisine type, and more. A user can fill as many fields as they want, with the requierement of one of them being actually filled. The initial results section provides a user with some basic information about each recipe. In case a user likes none of the 20 results they're given, the pagination was applied, to enable a user to search for more results. For a user's convenience, the form data isn't cleared after the submittion but there is this "Reset Form" button that allow for a user to clear the whole form.
+
+In the next step, I intend to add another section with a more detailed information for each recipe.
+
+At the current stage, the accessibility isn't the best yet, but I do intend to take care of it, after finishing the whole website.
+</details>
+
+<details>
+  <summary>4. Workout Planner</summary>
 
   #### Status
   _Needing minor refactoring_
@@ -120,7 +137,7 @@ Still needing an improvement of some UX and accessibility aspects, which is inte
 </details>
 
 <details>
-  <summary>4. ZChA Website</summary>
+  <summary>5. ZChA Website</summary>
 
   #### Status
   _Finished for now but may be further refactored in the future_
@@ -140,7 +157,7 @@ Although it's a simple website, it reflects quite well my current knowledge on t
 </details>
 
 <details>
-  <summary>5. Calorie Calculator</summary>
+  <summary>6. Calorie Calculator</summary>
 
   #### Status
   _Needing major refactoring_
@@ -149,18 +166,6 @@ Although it's a simple website, it reflects quite well my current knowledge on t
 The main purpose of creating this website was to practice some JS, during my learning process. However, I also intended to address some elements that I found to be lacking in similar calculators available online. As the name implies, the website provides the caloric demand based on the data provided by a user.
 
 Since the website was written almost a year ago, it requires a major refactoring, with a particular emphasis on the code quality and accessibility. Intended to be rewritten with TypeScript, ESLint, and – possibly – Astro and Tailwind CSS.
-</details>
-
-<details>
-  <summary>6. Recipe Finder</summary>
-
-  #### Status
-  _Needing major refactoring_
-
-  #### Description  
-The main purpose of creating this website was to practice working with the REST API, during my learning process. The website serves for finding recipes based on criteria provided by a user.  
-
-This website also needs major improvements, with a particular emphasis on its design. As for the code, part of it was reviewed (outside Github, so there are no pull requests) by an experienced developer, however, there is probably much room for improvement in it, as well. Intended to be done in the future, using TypeScript, ESLint, and – possibly – Astro and Tailwind CSS.
 </details>
 
 
