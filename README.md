@@ -2,14 +2,13 @@
 * I'm a highly motivated and passionate front-end programmer with a strong desire to kick-start my professional career. 
 * My primary focus is to write clean, readable and maintainable code, and to assure the best possible performance of websites. I am well-equipped to do so, due to the following:
     * I have first-hand experience participating in code reviews, and I've been refactoring my code based on the feedback I received (see the pull requests [here](https://github.com/Kepmon/Website_ZChA/pulls) or [here](https://github.com/Kepmon/task-manager/pulls), if interested). Therefore, I know what it is like going back to your code and wondering what's going on there.
-    * I also happen to be a perfectionist, and therefore, I intend to make a complete code refactoring for all my existing projects - I already managed to do this with one of them and - due to the lack of time - the rest are waiting for their turn.
-* Making websites accessible for everyone is also one of my top priorities. Therefore, when writing my personal projects, I implement solutions that allow both keyboard-navigating users, as well as screen-reader users, to easily navigate through the website/app. Currently, I use the [Silktide website accessibility simulator](https://chrome.google.com/webstore/detail/silktide-website-accessib/okcpiimdfkpkjcbihbmhppldhiebhhaf) as well as the [NVDA screen reader](https://www.nvaccess.org/download/) to be able to perceive the web the way that people with disabilities do. However, I'm open to any tool recommendations that would allow me to enhance my accessibility skills.
-* Although at the moment I'm focused on developing my front-end skills, I do intend to learn some back-end technologies (e.g. Node.js/Express.js, Bun, C#), as well since I strongly believe that the broader your knowledge is, the better the developer that you make.
+    * I also happen to be a perfectionist, and therefore, I intend to make a complete code refactoring of all my existing projects - I already managed to do this with two of them, whereas another one has been being refactored for quite a long time and it'll probably take some time still 🙈
+* Making websites accessible for everyone is also one of my top priorities. Therefore, when writing my personal projects, I implement solutions that allow both keyboard-navigating users, as well as screen-reader users, to easily navigate through the website/app. Currently, I use the [NVDA screen reader](https://www.nvaccess.org/download/) as well as the [Microsoft Narrator screen reader](https://support.microsoft.com/en-us/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1) to be able to perceive the web the way that people with disabilities do. However, I'm open to any tool recommendations that would allow me to enhance my accessibility skills.
+* Although at the moment I'm focused on developing my front-end skills, I do intend to learn some back-end technologies (e.g. Node.js/Express.js, Bun, C#), as well, since I strongly believe that the broader your knowledge is, the better the developer that you make.
 
 ## 🎓 Currently learning
 ✓ Practicing **Vue.js** by polishing [this app](https://github.com/Kepmon/task-manager).  
-✓ Practicing **Astro** (particularly, the SSG and SSR rendering modes) by making [this website](https://github.com/Kepmon/devjobs).  
-✓ Practicing **Astro** (SSR rendering mode) and **Svelte** by refactoring/writing from scratch [this website](https://github.com/Kepmon/Recipe_finder).  
+✓ Practicing **Astro** (particularly, the SSG and SSR rendering modes) by making [this website](https://github.com/Kepmon/devjobs). 
 
 ## 💻 Tech Stack
 **1. Languages and Frameworks**  
@@ -100,11 +99,9 @@ Apart from the functionality proposed by the Frontendmentor creators, I decided 
   _Being developed_
 
   #### Description  
-[This website](https://main--euphonious-valkyrie-eb9208.netlify.app/) is a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l) that I took on in order to get more familiarity with the SSG and SSR rendering modes, since all of my "more advanced" apps/websites are written using Vue.js that makes use of SPA, and I wanted to try something new. In this project, I'm using the [xata](https://xata.io/) platform for storing all the data that I was given from Frontend Mentor.
+[This website](https://main--euphonious-valkyrie-eb9208.netlify.app/) is a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/devjobs-web-app-HuvC_LP4l) that I took on, in order to get more familiarity with the SSG and SSR rendering modes, since all of my "more advanced" apps/websites are written using Vue.js that makes use of SPA, and I wanted to try something new. In this project, I'm using the [xata](https://xata.io/) platform for storing all the data that I was given by Frontend Mentor.
 
-At the current stage, all basic functionality works already. Nevertheless, since this is my first attempt to make an SSR website, I'm struggling with the **proper** application of certain functionalities (all my current issues are described in details in the project's README). Those are meant to be improved ASAP. Also, the accessibility is far from being on point, but I do intend to correct this in a near future.
-
-On top of that, apart from the functionality proposed by the Frontend Mentor creators, I intend to enhance the functionality of this website by:
+At the current stage, all basic functionality works already. However, apart from the functionality proposed by the Frontend Mentor creators, I intend to enhance the functionality of this website by:
 * allowing the users to create an account, in order to post a job offer
 * applying a WYSIWYG editor, in order to improve the user experience, when posting a new job offer
 * allowing the users to apply for a job
@@ -114,24 +111,20 @@ On top of that, apart from the functionality proposed by the Frontend Mentor cre
   <summary>3. Recipe Finder</summary>
 
   #### Status
-  _Currently being refactoring_
+  _Finished for now but may be further refactored in the future_
 
   #### Description  
-The website serves for finding recipes based on criteria provided by a user. It allows for a user to provide different criteria regarding the desired recipes, e.g. the meal name, calories per serving, diet/dish/cuisine type, and more. A user can fill as many fields as they want, with the requierement of one of them being actually filled. The initial results section provides a user with some basic information about each recipe. In case a user likes none of the 20 results they're given, the pagination was applied, to enable a user to search for more results. For a user's convenience, the form data isn't cleared after the submittion but there is this "Reset Form" button that allow for a user to clear the whole form.
-
-In the next step, I intend to add another section with a more detailed information for each recipe.
-
-At the current stage, the accessibility isn't the best yet, but I do intend to take care of it, after finishing the whole website.
+The website serves for finding recipes based on criteria provided by a user. It allows for a user to provide different criteria regarding the desired recipes, e.g. the meal name, calories per serving, the diet/dish/cuisine type, and more. A user can fill in as many fields as they want, with the requierement of one of them being actually filled. The initial results section provides a user with 20 recipes, displayed as cards, each containing some basic information about it (e.g. its photo, servings, calories per serving etc.). In case a user likes none of the 20 results they're given, the pagination was applied, to enable a user to search for more results. For a user's convenience, the form data isn't cleared after the submittion but there is this "Reset Form" button that allow for a user to clear the whole form. Each of the mentioned cards contains a 'Read More' button that, when pressed, opens another section with the recipe's details. In this section, some additional recipe's information has been provided. The only (important) thing that should be included here but it weren't is the actual recipe's steps. This is because the [recipes API](https://www.edamam.com/) that I used for this one doesn't really provide an actual recipe, but insted, they give a link to an external website with the recipe. The link is obviously included in the recipe details section.
 </details>
 
 <details>
   <summary>4. Workout Planner</summary>
 
   #### Status
-  _Needing minor refactoring_
+  _Needing some refactoring_
 
   #### Description  
-The website was created with the intent of practicing Vue. Initially written with Options API and JavaScript but I then substituted them with  Composition API and Typescript, respectively. The website allows to create workout routines and was connected to Supabase, so the user can create and store their workouts.
+The website was created with the intent of practicing Vue. Initially written with Options API and JavaScript but I then substituted them with Composition API and Typescript, respectively. The website allows to create workout routines and was connected to Supabase, so the user can create and store their workouts.
 
 Still needing an improvement of some UX and accessibility aspects, which is intended to be done in the future.
 </details>
